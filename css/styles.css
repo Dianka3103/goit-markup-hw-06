@@ -474,6 +474,7 @@ body {
     list-style: none;
     margin-bottom: 0;
     margin-top: 0;
+    padding-left: 0;
 }
 
 .container-list .container-item:not(:last-child) {
